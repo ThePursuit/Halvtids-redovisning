@@ -17,7 +17,7 @@
 
 # The Pursuit is
 
-- Agmunted reality
+- Augmented reality
 - Mobile
 - Multiplayer
 
@@ -30,7 +30,7 @@
 - How should the devices communicate?
 - What are resonable rules for the game?
 - What is good interface desing?
-- Hoe mouch can we affect the battery and data traffic?
+- How much can we affect the battery and data traffic?
 - And so on...
 
 ---
