@@ -7,9 +7,9 @@
 
 # Nintendo Land: Mario Chase
 
-![fit original](Mario-Chase-Nintendo-Land-preview-3.jpg)
+![fit original](pic/Mario-Chase-Nintendo-Land-preview-3.jpg)
 
-![fit original](Mario-Chase-Nintendo-Land.jpg)
+![fit original](pic/Mario-Chase-Nintendo-Land.jpg)
 
 ^ Beskriva spelet
 
@@ -50,13 +50,13 @@
 
 ---
 
-![fit](ior1.jpg)
+![fit](pic/ior1.jpg)
 
 ^ Verkar genomförbart men lite bökigt.
 
 ---
 
-![fit](ior2.jpg)
+![fit](pic/ior2.jpg)
 
 ^ Insåg att det var fragmenterat och dålig dokumentation
 
@@ -68,13 +68,13 @@
 
 ---
 
-![fit](adventure-was-going-to-happen-winie-the-pooh.jpg)
+![fit](pic/adventure-was-going-to-happen-winie-the-pooh.jpg)
 
 ^ Störe begränsingar men enlare att få något gjort. Bra dokumentation
 
 ---
 
-![fit](/Users/cennydavidsson/.Trash/ER.png)
+![fit](pic/ER-Diagram The Pursuit.png)
 
 ^ Att struktuera spelets state
 
@@ -95,19 +95,19 @@
 
 ---
 
-![fit](Storyboard av iOS.png)
+![fit](pic/Storyboard av iOS.png)
 
 ^ Hur applikationen fungerar
 
 ---
 
-![fit](ios_game.png)
+![fit](pic/ios_game.png)
 
-![fit](android_game.png)
+![fit](pic/android_game.png)
 
 ^ Hur man spelar spelet
 
 ---
 
-![fit](Thats all folks.jpeg)
+![fit](pic/Thats all folks.jpeg)
 
