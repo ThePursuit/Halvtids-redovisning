@@ -1,5 +1,5 @@
 # [fit] The Pursuit
-## Next genegration of hide and seek
+## Next generation of hide and seek
 
 ^ Presenter oss
 
@@ -28,14 +28,14 @@
 # [fit] Problems?
 
 - How should the devices communicate?
-- What are resonable rules for the game?
-- What is good interface desing?
+- What are reasonable rules for the game?
+- What is a good interface design?
 - How much can we affect the battery and data traffic?
 - And so on...
 
 ---
 
-# [fit] Bulding 
+# [fit] Building 
 # [fit] the 
 # [fit] server
 
@@ -44,7 +44,7 @@
 ---
 
 # [fit] Google 
-# [fit] App Enige
+# [fit] App Engine
 
 ^ Lätt bra enligt googles egna ord jämnför med de andra alternativen. Amazon, Parse, Azure osv
 
@@ -77,13 +77,6 @@
 ![fit](pic/ER-Diagram The Pursuit.png)
 
 ^ Att struktuera spelets state
-
----
-
-# [fit] Cloud 
-# [fit] code
-
-^ manipulera spelets state 
 
 ---
 
