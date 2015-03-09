@@ -74,7 +74,7 @@
 
 ---
 
-![fit](pic/ER-Diagram The Pursuit.png)
+![fit](pic/ER-Diagram.png)
 
 ^ Att struktuera spelets state
 
